@@ -1,6 +1,6 @@
 # PYTHON WORKSHOP for women in science
 
-![Alt text](images/women_in_science_poster.png)
+![Alt text](images/rmws.png)
 
 
 ## 11th February | 10:00 - 15:00
